@@ -2268,7 +2268,7 @@ containing a value of this type.
         public static final int abc_toolbar_collapse_description=0x7f0a0004;
         public static final int action_settings=0x7f0a0016;
         public static final int app_name=0x7f0a0014;
-        public static final int hello_world=0x7f0a0015;
+        public static final int hello_zbw=0x7f0a0015;
         /**  Text to use when the number in a notification info is too large
          (greater than status_bar_notification_info_maxnum, defined in
          values/config.xml) and must be truncated. May need to be localized
